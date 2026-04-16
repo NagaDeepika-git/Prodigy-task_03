@@ -4,7 +4,6 @@
 
 A simple web-based Tic Tac Toe game developed during my Web Development Internship at Prodigy InfoTech.
 This project demonstrates the implementation of game logic using JavaScript along with an interactive and responsive user interface.
-The application allows two players to play interactively with real-time updates and basic game logic.
 
 ## Features
 
